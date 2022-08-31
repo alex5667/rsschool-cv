@@ -48,5 +48,5 @@ function duplicateEncode(word){
 ## Languages
 
 ----------------------------
-English A2.
-Russian Native.
+* English A2.
+* Russian Native.
