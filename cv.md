@@ -44,3 +44,9 @@ function duplicateEncode(word){
 * RS Schools Course «JavaScript/Front-end. Stage 0» 
 * JavaScript Manual on https://learn.javascript.ru/ (in progress)
 * CS50 video course
+
+## Languages
+
+----------------------------
+English A2.
+Russian Native.
