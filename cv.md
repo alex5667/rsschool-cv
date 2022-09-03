@@ -6,7 +6,7 @@
 
 ----------------------------
 
-* Phone : +380 (50)-505-12-41
+* Telegram  : alex56671111
 * Web :    alex56671111@gmail.com
 * Discord : Alex566756
 
