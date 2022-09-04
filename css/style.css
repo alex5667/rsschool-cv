@@ -202,6 +202,7 @@ h1{
 .main{
     display: block;
     width: 70%;
+    padding-bottom: 10px;
 }
 .contacts{
     margin-top: 20px;
@@ -335,6 +336,15 @@ h1{
     list-style: circle;
     letter-spacing: 0.02em;
 }
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:24px;
+    color: #000020;
+    font-weight: 500;
+    text-transform: uppercase;
+}
 .git__footer{
     display: flex;
     align-items: center;
@@ -345,7 +355,7 @@ h1{
     background-color: transparent;
 }
 .footer__img{
-    height: 70px;
+    height: 50px;
 }
 
 
