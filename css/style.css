@@ -335,6 +335,19 @@ h1{
     list-style: circle;
     letter-spacing: 0.02em;
 }
+.git__footer{
+    display: flex;
+    align-items: center;
+}
+.git__footer a{
+    display: block;
+    text-decoration: none;
+    background-color: transparent;
+}
+.footer__img{
+    height: 70px;
+}
+
 
 
 
