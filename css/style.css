@@ -205,6 +205,9 @@ h1{
     width: 70%;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1467364 (@media (max-width: 577px) {)
 =======
 >>>>>>> 1467364 (@media (max-width: 577px) {)
     background: #FAFAFA;
@@ -212,9 +215,12 @@ h1{
     padding-right: 20px;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     padding-bottom: 10px;
 >>>>>>> 3c693a2 (feat: add footer date)
+=======
+>>>>>>> 1467364 (@media (max-width: 577px) {)
 =======
 >>>>>>> 1467364 (@media (max-width: 577px) {)
 }
@@ -456,23 +462,7 @@ h1{
     letter-spacing: 0.02em;
     line-height: 1.4;
 <<<<<<< HEAD
-}
-@media (max-width: 767px) {
-	.courses__list li {
-        font-size: 14px;
-    }
-}
-
-.footer__container{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    font-size:24px;
-    color: #000020;
-    font-weight: 500;
-    text-transform: uppercase;
-    background: #BABABA;
-    padding: 15px 0 15px 0;
+<<<<<<< HEAD
 =======
 >>>>>>> 1467364 (@media (max-width: 577px) {)
 }
@@ -492,6 +482,28 @@ h1{
     text-transform: uppercase;
     background: #BABABA;
     padding: 15px 0 15px 0;
+<<<<<<< HEAD
+=======
+>>>>>>> 1467364 (@media (max-width: 577px) {)
+}
+@media (max-width: 767px) {
+	.courses__list li {
+        font-size: 14px;
+    }
+}
+
+.footer__container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size:24px;
+    color: #000020;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #BABABA;
+    padding: 15px 0 15px 0;
+=======
+>>>>>>> 1467364 (@media (max-width: 577px) {)
 }
 .git__footer{
     display: flex;
@@ -517,6 +529,11 @@ h1{
     }
 =======
 >>>>>>> 3c693a2 (feat: add footer date)
+}
+@media (max-width: 767px) {
+	.footer__img {
+        height: 40px;
+    }
 }
 @media (max-width: 767px) {
 	.footer__img {
