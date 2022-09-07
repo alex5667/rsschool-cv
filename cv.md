@@ -7,7 +7,7 @@
 ----------------------------
 
 * Telegram  : alex56671111
-* Web :    alex56671111@gmail.com
+* Web :   alex56671111@gmail.com
 * Discord : Alex566756
 
 ----------------------------
