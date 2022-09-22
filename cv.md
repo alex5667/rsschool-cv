@@ -7,8 +7,8 @@
 ----------------------------
 
 * Telegram  : alex56671111
-* Web :    alex56671111@gmail.com
-* Phone : +38(050) 505-12-41
+* Web :   alex56671111@gmail.com
+* Discord : Alex566756
 
 ----------------------------
 
