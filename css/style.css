@@ -203,46 +203,7 @@ h1{
 .main{
     display: block;
     width: 70%;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 1467364 (@media (max-width: 577px) {)
-=======
->>>>>>> 1467364 (@media (max-width: 577px) {)
-=======
->>>>>>> 4321ca6 (feat: change cv)
-=======
-=======
->>>>>>> 1467364 (@media (max-width: 577px) {)
->>>>>>> f1c43c5 (feat: change cv)
-    background: #FAFAFA;
-    padding-left: 20px;
-    padding-right: 20px;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> f1c43c5 (feat: change cv)
-=======
-    padding-bottom: 10px;
->>>>>>> 3c693a2 (feat: add footer date)
-=======
->>>>>>> 1467364 (@media (max-width: 577px) {)
-<<<<<<< HEAD
-=======
->>>>>>> 1467364 (@media (max-width: 577px) {)
-=======
-=======
-    padding-bottom: 10px;
->>>>>>> 3c693a2 (feat: add footer date)
->>>>>>> 4321ca6 (feat: change cv)
-=======
->>>>>>> f1c43c5 (feat: change cv)
 }
 .contacts{
     margin-top: 20px;
@@ -481,34 +442,6 @@ h1{
     list-style: circle;
     letter-spacing: 0.02em;
     line-height: 1.4;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 1467364 (@media (max-width: 577px) {)
-=======
->>>>>>> f1c43c5 (feat: change cv)
-}
-@media (max-width: 767px) {
-	.courses__list li {
-        font-size: 14px;
-    }
-}
-
-.footer__container{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    font-size:24px;
-    color: #000020;
-    font-weight: 500;
-    text-transform: uppercase;
-    background: #BABABA;
-    padding: 15px 0 15px 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 1467364 (@media (max-width: 577px) {)
 }
 @media (max-width: 767px) {
 	.courses__list li {
@@ -527,9 +460,6 @@ h1{
     background: #BABABA;
     padding: 15px 0 15px 0;
 =======
->>>>>>> f1c43c5 (feat: change cv)
-=======
->>>>>>> 1467364 (@media (max-width: 577px) {)
 }
 @media (max-width: 767px) {
 	.courses__list li {
@@ -559,8 +489,6 @@ h1{
 }
 .footer__img{
     height: 50px;
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
 @media (max-width: 767px) {
 	.footer__img {
@@ -571,34 +499,12 @@ h1{
 	.footer__img {
         height: 30px;
     }
-=======
->>>>>>> 3c693a2 (feat: add footer date)
-}
-@media (max-width: 767px) {
-	.footer__img {
-        height: 40px;
-    }
-=======
->>>>>>> 4321ca6 (feat: change cv)
-}
-@media (max-width: 767px) {
-	.footer__img {
-        height: 40px;
-    }
-}
-@media (max-width: 507px) {
-	.footer__img {
-        height: 30px;
-    }
-=======
->>>>>>> 3c693a2 (feat: add footer date)
-}
-@media (max-width: 767px) {
-	.footer__img {
-        height: 40px;
-    }
-}
 
+@media (max-width: 767px) {
+	.footer__img {
+        height: 40px;
+    }
+}
 
 
 
