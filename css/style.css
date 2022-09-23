@@ -206,14 +206,18 @@ h1{
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 1467364 (@media (max-width: 577px) {)
 =======
 >>>>>>> 1467364 (@media (max-width: 577px) {)
+=======
+>>>>>>> 4321ca6 (feat: change cv)
     background: #FAFAFA;
     padding-left: 20px;
     padding-right: 20px;
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -223,6 +227,11 @@ h1{
 >>>>>>> 1467364 (@media (max-width: 577px) {)
 =======
 >>>>>>> 1467364 (@media (max-width: 577px) {)
+=======
+=======
+    padding-bottom: 10px;
+>>>>>>> 3c693a2 (feat: add footer date)
+>>>>>>> 4321ca6 (feat: change cv)
 }
 .contacts{
     margin-top: 20px;
@@ -505,6 +514,15 @@ h1{
 =======
 >>>>>>> 1467364 (@media (max-width: 577px) {)
 }
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:24px;
+    color: #000020;
+    font-weight: 500;
+    text-transform: uppercase;
+}
 .git__footer{
     display: flex;
     align-items: center;
@@ -516,6 +534,7 @@ h1{
 }
 .footer__img{
     height: 50px;
+<<<<<<< HEAD
 <<<<<<< HEAD
 }
 @media (max-width: 767px) {
@@ -534,6 +553,8 @@ h1{
 	.footer__img {
         height: 40px;
     }
+=======
+>>>>>>> 4321ca6 (feat: change cv)
 }
 @media (max-width: 767px) {
 	.footer__img {
@@ -544,6 +565,8 @@ h1{
 	.footer__img {
         height: 30px;
     }
+=======
+>>>>>>> 3c693a2 (feat: add footer date)
 }
 
 
