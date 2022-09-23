@@ -203,10 +203,20 @@ h1{
 .main{
     display: block;
     width: 70%;
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1467364 (@media (max-width: 577px) {)
     background: #FAFAFA;
     padding-left: 20px;
     padding-right: 20px;
 
+<<<<<<< HEAD
+=======
+    padding-bottom: 10px;
+>>>>>>> 3c693a2 (feat: add footer date)
+=======
+>>>>>>> 1467364 (@media (max-width: 577px) {)
 }
 .contacts{
     margin-top: 20px;
@@ -445,6 +455,26 @@ h1{
     list-style: circle;
     letter-spacing: 0.02em;
     line-height: 1.4;
+<<<<<<< HEAD
+}
+@media (max-width: 767px) {
+	.courses__list li {
+        font-size: 14px;
+    }
+}
+
+.footer__container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size:24px;
+    color: #000020;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #BABABA;
+    padding: 15px 0 15px 0;
+=======
+>>>>>>> 1467364 (@media (max-width: 577px) {)
 }
 @media (max-width: 767px) {
 	.courses__list li {
@@ -474,6 +504,7 @@ h1{
 }
 .footer__img{
     height: 50px;
+<<<<<<< HEAD
 }
 @media (max-width: 767px) {
 	.footer__img {
@@ -483,6 +514,13 @@ h1{
 @media (max-width: 507px) {
 	.footer__img {
         height: 30px;
+    }
+=======
+>>>>>>> 3c693a2 (feat: add footer date)
+}
+@media (max-width: 767px) {
+	.footer__img {
+        height: 40px;
     }
 }
 
