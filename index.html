@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Montserrat:300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic">
+    <title>OLEKSII SYLANTIEV</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <div class="header__container">
+                <nav class="header__menu">
+                    <ul class="menu__list">
+                        <li class="menu__item">
+                            <a href="#contacts" class="menu__link">Contacts</a>
+                        </li>
+                        <li class="menu__item">
+                            <a href="#about" class="menu__link">About</a>
+                        </li>
+                        <li class="menu__item">
+                            <a href="#skills" class="menu__link">Skills</a>
+                        </li>
+                        <li class="menu__item">
+                            <a href="#courses" class="menu__link">Courses</a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <div class="name">
+                    <h1>OLEKSII SYLANTIEV</h1>
+                    <div class="photo">
+                        <img src="./assets/images.jpg" alt="My photo" class="myphoto">
+
+                    </div>
+                </div>
+            </div>
+
+        </header>
+        <div class="page">
+            <div class="main__container">
+                <aside class="aside">
+                    <section class="contacts">
+                        <h2 class="dot">.</h2>
+                        <ul class="contact__list" id="contacts">
+                            <li class="telegram contact__li">
+                                <a href="https://t.me/alex56671111" target="_blank">Telegram</a>
+                            </li>
+                            <li class="email contact__li"><a href="mailto:alex56671111@gmail.com"
+                                    target="_blank">E-mail</a>
+                            </li>
+                            <li class="phone contact__li"><a href="tel:+380505051241" target="_blank">Phone</a>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="skills" id="skills">
+                        <h2 class="h2">Skills</h2>
+                        <ul class="skills__list">
+                            <li class="skill html">HTML</li>
+                            <li class="skill css">CSS</li>
+                            <li class="skill js">JavaScript</li>
+                            <li class="skill git">Git</li>
+                            <li class="skill gith">GitHub</li>
+                            <li class="skill figm">Figma</li>
+                        </ul>
+                    </section>
+                </aside>
+                <main class="main">
+                    <section class="about" id="about">
+                        <h2 class="h2">About me</h2>
+                        <div class="aboutme">
+                            <p>
+                                My life is a continuous process of acquiring skills and abilities in various
+                                combinations. Only constant self-development and personal growth becomes the quality of
+                                my life.
+                            </p>
+                            <p>
+                                I am eager to learn something new. This allows me to successfully adapt to social
+                                realities, to remain competitive in the labor market.
+                            </p>
+                        </div>
+
+                    </section>
+                    <section class="code">
+                        <h2 class="h2">
+                            Code example
+                        </h2>
+                        <div class="javascript">
+                            <ol>
+                                <li class="li1">
+                                    <div class="de1"><span class="kw2">function</span> duplicateEncode<span
+                                            class="br0">&#40;</span>word<span class="br0">&#41;</span><span
+                                            class="br0">&#123;</span></div>
+                                </li>
+                                <li class="li1">
+                                    <div class="de1">&nbsp; <span class="kw2">const</span> wordL <span
+                                            class="sy0">=</span> word.<span class="me1">toLowerCase</span><span
+                                            class="br0">&#40;</span><span class="br0">&#41;</span>.<span
+                                            class="me1">split</span><span class="br0">&#40;</span><span
+                                            class="st0">''</span><span class="br0">&#41;</span><span
+                                            class="sy0">;</span></div>
+                                </li>
+                                <li class="li1">
+                                    <div class="de1">&nbsp; <span class="kw2">const</span> counts <span
+                                            class="sy0">=</span> wordL.<span class="me1">reduce</span><span
+                                            class="br0">&#40;</span><span class="br0">&#40;</span>ct<span
+                                            class="sy0">,</span> ltr<span class="br0">&#41;</span> <span
+                                            class="sy0">=&gt;</span> <span class="br0">&#40;</span><span
+                                            class="br0">&#40;</span>ct<span class="br0">&#91;</span>ltr<span
+                                            class="br0">&#93;</span> <span class="sy0">=</span> <span
+                                            class="br0">&#40;</span>ct<span class="br0">&#91;</span>ltr<span
+                                            class="br0">&#93;</span> <span class="sy0">||</span> <span
+                                            class="nu0">&nbsp;&nbsp;0</span><span class="br0">&#41;</span> <span
+                                            class="sy0">+</span> <span class="nu0">
+                                            &nbsp;1;</span><span class="br0">&#41;</span><span
+                                            class="sy0">&nbsp;,&nbsp;</span>&nbsp;ct<span class="br0">&#41;</span><span
+                                            class="sy0">,</span> <span class="br0">&#123;</span><span
+                                            class="br0">&#125;</span><span class="br0">&#41;</span><span
+                                            class="sy0">;</span></div>
+                                </li>
+                                <li class="li1">
+                                    <div class="de1">&nbsp; <span class="kw1">return</span> wordL.<span
+                                            class="me1">map</span><span class="br0">&#40;</span>letter <span
+                                            class="sy0">=&gt;</span> counts<span class="br0">&#91;</span>letter<span
+                                            class="br0">&#93;</span> <span class="sy0">===</span> <span
+                                            class="nu0">1</span> <span class="sy0">?</span> <span class="st0">'('</span>
+                                        <span class="sy0">:</span> <span class="st0">&nbsp;&nbsp;')'</span><span
+                                            class="br0">&#41;</span>.<span class="me1">join</span><span
+                                            class="br0">&#40;</span><span class="st0">''</span><span
+                                            class="br0">&#41;</span><span class="sy0">;</span>
+                                    </div>
+                                </li>
+                                <li class="li1">
+                                    <div class="de1"><span class="br0">&#125;</span></div>
+                                </li>
+                            </ol>
+                        </div>
+
+
+                    </section>
+                    <section class="courses" id="courses">
+                        <h2 class="h2">
+                            Education
+                        </h2>
+                        <ul class="courses__list">
+                            <li>RS Schools Course "JavaScript/Front-end. Stage 0"</li>
+                            <li>JavaScript Manual on https://learn.javascript.ru/ (in progress)</li>
+                            <li>RS Schools Course "JavaScript/Front-end. Stage 1"(in progress)</li>
+                            <li>CS50 video course</li>
+                            <li>HTML academy (in progress) </li>
+                        </ul>
+                        <section class="languages">
+                            <h2 class="h2">
+                                Languages
+                            </h2>
+                            <ul class="courses__list">
+                                <li>English A2 (B1 in progress)</li>
+                                <li>Russian Native</li>
+                            </ul>
+                        </section>
+                    </section>
+                </main>
+            </div>
+        </div>
+        <footer class="footer">
+            <div class="footer__container">
+                <div class="git__footer">
+                    <a href="https://github.com/alex5667" target="_blank">
+                        <img src="./assets/github-svgrepo-com(1).svg" alt="github" class="footer__img">
+                    </a>
+                </div>
+                <div class="git__footer">
+                    <a href="https://rs.school/js/" target="_blank">
+                        <img src="./assets/rs_school.svg" alt="github" class="footer__img">
+                    </a>
+                </div>
+                <div class="footer__date">
+                    <p>created</p>
+                    <p>in 2022</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
