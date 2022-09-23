@@ -203,10 +203,14 @@ h1{
 .main{
     display: block;
     width: 70%;
+<<<<<<< HEAD
     background: #FAFAFA;
     padding-left: 20px;
     padding-right: 20px;
 
+=======
+    padding-bottom: 10px;
+>>>>>>> 3c693a2 (feat: add footer date)
 }
 .contacts{
     margin-top: 20px;
@@ -463,6 +467,15 @@ h1{
     background: #BABABA;
     padding: 15px 0 15px 0;
 }
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:24px;
+    color: #000020;
+    font-weight: 500;
+    text-transform: uppercase;
+}
 .git__footer{
     display: flex;
     align-items: center;
@@ -474,6 +487,7 @@ h1{
 }
 .footer__img{
     height: 50px;
+<<<<<<< HEAD
 }
 @media (max-width: 767px) {
 	.footer__img {
@@ -484,6 +498,8 @@ h1{
 	.footer__img {
         height: 30px;
     }
+=======
+>>>>>>> 3c693a2 (feat: add footer date)
 }
 
 
